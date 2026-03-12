@@ -9,7 +9,7 @@ const ALIAS_DICTIONARY = {
   'גבינצ': 'גבינה צהובה', 'תפוא': 'תפוח אדמה', 'שמן זית': 'שמן זית', 'סבון כלים': 'נוזל כלים', 'טישו': 'נייר טואלט', 'גלילי טישו': 'נייר טואלט'
 };
 
-const SERVER_URL = 'http://localhost:3001';
+const SERVER_URL = 'https://smart-grocery-server-u38w.onrender.com';
 // מפתח ה-API מסופק על ידי סביבת הריצה של המערכת (לצורך ניקוי טקסט והוספה חופשית)
 const apiKey = ""; 
 
